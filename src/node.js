@@ -8,6 +8,7 @@ const trendingPreviewSection = $('#trendingPreview');
 const categoriesPreviewSection = $('#categoriesPreview');
 const genericSection = $('#genericList');
 const movieDetailSection = $('#movieDetail');
+const likedMoviesSection = $('#liked');
 
 // Lists & Containers
 const searchForm = $('#searchForm');
@@ -15,6 +16,7 @@ const trendingMoviesPreviewList = $('.trendingPreview-movieList');
 const categoriesPreviewList = $('.categoriesPreview-list');
 const movieDetailCategoriesList = $('#movieDetail .categories-list');
 const relatedMoviesContainer = $('.relatedMovies-scrollContainer');
+const likedMoviesListArticle=$('.liked-movieList');
 
 // Elements
 const headerTitle = $('.header-title');
